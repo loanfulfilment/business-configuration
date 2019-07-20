@@ -1,0 +1,10 @@
+[
+  {
+    "customerId": "1",
+    "fraudStatus": "CLEAR"
+  },
+  {
+    "customerId": "2",
+    "fraudStatus": "FRAUDULENT"
+  }
+]
