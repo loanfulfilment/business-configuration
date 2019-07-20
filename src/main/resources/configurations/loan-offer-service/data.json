@@ -1,0 +1,22 @@
+[
+  {
+    "customerId": "1",
+    "offer": {
+      "interestRate": 8.5,
+      "tenureInMonths": 36,
+      "approvedLoanAmount": 1000000.0,
+      "foreclosureCharges": 2.0,
+      "partPaymentCharges": 3.0
+    }
+  },
+  {
+    "customerId": "2",
+    "offer": {
+      "interestRate": 7.5,
+      "tenureInMonths": 60,
+      "approvedLoanAmount": 500000.0,
+      "foreclosureCharges": 5.0,
+      "partPaymentCharges": 5.0
+    }
+  }
+]
