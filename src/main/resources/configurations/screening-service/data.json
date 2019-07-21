@@ -1,10 +1,14 @@
 [
   {
-    "customerId": "1",
+    "name": "Swapnil Sankla",
+    "pan": "BSLDH7590K",
+    "address": "Pune",
     "fraudStatus": "CLEAR"
   },
   {
-    "customerId": "2",
+    "name": "Supriya Sankla",
+    "pan": "NWUDH5612O",
+    "address": "Pune",
     "fraudStatus": "FRAUDULENT"
   }
 ]
