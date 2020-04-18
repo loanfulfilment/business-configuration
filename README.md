@@ -1,5 +1,3 @@
 # Business Configuration
 
-[![Build Status](https://travis-ci.org/loanfulfilment/business-configuration.svg?branch=master)](https://travis-ci.org/loanfulfilment/business-configuration.svg?branch=master)
-
-
+[![CircleCI](https://circleci.com/gh/loanfulfilment/loan-gateway.svg?style=svg)](https://circleci.com/gh/loanfulfilment/business-configuration)
